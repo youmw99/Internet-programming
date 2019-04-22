@@ -1,0 +1,34 @@
+@import url
+font-style
+font-size
+font-family
+font-weight
+font-variant (normal, small-caps)
+line-height
+text-decoration (none,underline,overline,line-through)
+text-transform (none, capitalize, uppercase, lowercase, full-width)
+text-shadow
+letter-spacing
+word-spacing
+direction (ltr,rtl)
+text-align
+text-indent
+text-overflow (clip, ellipsis)
+list-style-type (disc,circle,square,none, lower-alpha, upper-roman)
+list-style-position (inside, outside)
+border-style
+border-radius
+box-shadow
+box-sizing (content-box, border-box)
+float
+clear
+position (static, relative, absolute, fixed)
+visibility (visible, hidden, collapse)
+column-width
+column-count
+caption-side (top,bottom)
+border-collapse (collapse, seperate)
+border-spacing
+empty-cells (show,hide)
+dl, dt, dd
+background-repeat
